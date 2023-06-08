@@ -1,2 +1,3 @@
 hello my name is Bob
 this is a test file for git training
+this is not a new line for testing file modification
